@@ -1,0 +1,19 @@
+What is the main function of a Retrieval-Augmented Generation (RAG) model?
+
+    A RAG model combines a retriever and a generator to enhance the output by fetching relevant information from a given dataset before generating a response.
+
+How does the retriever in a RAG model work?
+
+    The retriever component in a RAG model queries a dataset or knowledge base to find relevant information based on the input query, which is then passed to the generator.
+
+What types of applications are ideal for using RAG models?
+
+    RAG models are ideal for applications requiring deep knowledge and context, such as question answering systems, content creation tools, and any AI that needs to provide informed and accurate responses.
+
+Can RAG models be used in real-time applications?
+
+    Yes, RAG models can be used in real-time applications, although their efficiency and speed depend on the complexity of the retrieval database and the processing power available.
+	
+	Mary's dad is John.
+	Mary's elder sister name is Samantha.
+	
